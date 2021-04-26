@@ -18,7 +18,7 @@ from train import update_params
 
 sys.path.insert(0, "tacotron2")
 sys.path.insert(0, "tacotron2/waveglow")
-from tacotron2.waveglow.glow import WaveGlow
+# from tacotron2.waveglow.glow import WaveGlow
 from scipy.io.wavfile import write
 
 
