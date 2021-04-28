@@ -1,0 +1,8 @@
+data/surprised_samples/03-01-08-01-01-01-24.wav|Kids are talking by the door.|0
+data/surprised_samples/03-01-08-01-01-02-24.wav|Kids are talking by the door.|0
+data/surprised_samples/03-01-08-01-02-01-24.wav|Dogs are sitting by the door.|0
+data/surprised_samples/03-01-08-01-02-02-24.wav|Dogs are sitting by the door.|0
+data/surprised_samples/03-01-08-02-01-01-24.wav|Kids are talking by the door.|0
+data/surprised_samples/03-01-08-02-01-02-24.wav|Kids are talking by the door.|0
+data/surprised_samples/03-01-08-02-02-01-24.wav|Dogs are sitting by the door.|0
+data/surprised_samples/03-01-08-02-02-02-24.wav|Dogs are sitting by the door.|0
